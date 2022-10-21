@@ -51,18 +51,133 @@ Pull Requests & Comments offer support for:
 
 ---
 
-```json
-   // Code for coloring
+```CSS
+Some text in green! 123
 ```
-```html
-   // Code for coloring
+
+<pre>
+```CSS
+Some text in green! 123
 ```
-```js
-   // Code for coloring
+</pre>
+
+---
+
+```P4
+Some text in blue! 123
 ```
-```css
-   // Code for coloring
+
+```Mint
+Some text in blue with additional keyword highlighting! 123
 ```
+
+<pre>
+```P4
+Some text in blue! 123
+```
+
+```Mint
+Some text in blue with additional keyword highlighting! 123
+```
+</pre>
+
+---
+
+```robots.txt
+some text in light blue! 123
+```
+
+<pre>
+```robots.txt
+some text in light blue! 123
+```
+</pre>
+
+---
+
+```EBNF
+Some text in purple! 123
+```
+
+```mupad
+Some text in purple with additional keyword highlighting! 123
+```
+
+<pre>
+```EBNF
+Some text in purple! 123
+```
+
+```mupad
+Some text in purple with additional keyword highlighting! 123
+```
+</pre>
+
+---
+
+```Mathematica
+Some text in orange! 123
+```
+
+```REXX
+Some text in orange with additional keyword highlighting! 123
+```
+
+```Nix
+Some text in orange with additional keyword highlighting! 123
+```
+
+<pre>
+```Mathematica
+Some text in orange! 123
+```
+
+```REXX
+Some text in orange with additional keyword highlighting! 123
+```
+
+```Nix
+Some text in orange with additional keyword highlighting! 123
+```
+</pre>
+
+---
+
+```POV-Ray SDL
+some text in red!
+```
+
+<pre>
+```POV-Ray SDL
+some text in red!
+```
+</pre>
+
+---
+
+```RobotFramework
+Some text in light red! 123
+```
+
+<pre>
+```RobotFramework
+Some text in light red! 123
+```
+</pre>
+
+---
+
+```JSON
+Some text highlighted in red! 123
+```
+
+<pre>
+```JSON
+Some text highlighted in red! 123
+```
+</pre>
+
+---
 
 ## HTML tricks
 
