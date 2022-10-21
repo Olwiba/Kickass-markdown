@@ -4,6 +4,10 @@ Markdown is Github's version of dress code - Make your first impression count.
 
 Make sure to checkout [Poor Man's Styleguide](https://github.com/bryanbraun/poor-mans-styleguide#readme) for all common page elements.
 
+```diff
++ If you find this useful, please remember to ⭐ - Thanks!
+```
+
 ## What tricks can I use?
 READMEs offer support for:  
 👉 [Markdown](#markdown-tricks)  
@@ -12,30 +16,10 @@ READMEs offer support for:
 Pull Requests & Comments offer support for:  
 👉 [Markdown](#markdown-tricks)
 
+## Contribution
+Missing a trick? feel free to make a [contribution](https://github.com/Olwiba/Kickass-markdown/edit/main/README.md).
+
 ## Markdown tricks
-<samp>Monospaced text</samp>
-
-```
-<samp>Monospaced text</samp>
-```
-
----
-
-<ins>Underlined text</ins>
-
-```
-<ins>Underlined text</ins>
-```
-
----
-
-<table><tr><td>Boxed text</td></tr></table>
-
-```
-<table><tr><td>Boxed text</td></tr></table>
-```
-
----
 
 ```diff
 + this text is highlighted in green
@@ -176,14 +160,58 @@ Some text highlighted in red! 123
 Some text highlighted in red! 123
 ```
 </pre>
-
----
 
 ## HTML tricks
 
+<samp>Monospaced text</samp>
 
-## Contribution
-Missing a trick? feel free to make a [contribution](https://github.com/Olwiba/Kickass-markdown/edit/main/README.md).
+```
+<samp>Monospaced text</samp>
+```
+
+---
+
+<ins>Underlined text</ins>
+
+```
+<ins>Underlined text</ins>
+```
+
+---
+
+<table><tr><td>Boxed text</td></tr></table>
+
+```
+<table><tr><td>Boxed text</td></tr></table>
+```
+
+---
+
+<details>
+<summary>Item summary with dropdown</summary>
+
+Dropdown content (supports **markdown** ~~yay!~~)
+
+```json
+{
+  awesome: "true"
+}
+```
+</details>
+
+<pre>
+&lt;details>
+&lt;summary>Item summary with dropdown&lt;/summary>
+
+Dropdown content (supports **markdown** ~~yay!~~)
+
+```json
+{
+  awesome: "true"
+}
+```
+&lt;/details>
+</pre>
 
 ## Offical links
 [Github flavoured markdown](https://docs.github.com/en/get-started/writing-on-github)  
