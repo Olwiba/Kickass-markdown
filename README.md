@@ -213,6 +213,54 @@ Dropdown content (supports **markdown** ~~yay!~~)
 &lt;/details>
 </pre>
 
+---
+
+__*Italic-bold*__
+
+```
+__*Italic-bold*__
+```
+
+---
+
+Superscript<sup>TM</sup>
+
+```
+Superscript<sup>TM</sup>
+```
+
+---
+
+Superscript-italic<sup>*tm*</sup>
+
+```
+Superscript-italic<sup>*tm*</sup>
+```
+
+---
+
+Subscript<sub>x</sub>
+
+```
+Subscript<sub>x</sub>
+```
+
+---
+
+Subscript-bold<sub>**min**</sub>
+
+```
+Subscript-bold<sub>**min**</sub>
+```
+
+---
+
+~~__*Italic-bold-strikethrough*__~~
+
+```
+~~__*Italic-bold-strikethrough*__~~
+```
+
 ## Offical links
 [Github flavoured markdown](https://docs.github.com/en/get-started/writing-on-github)  
 [Github markup engine](https://github.com/github/markup)  
